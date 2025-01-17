@@ -16,9 +16,12 @@
 }
 
 .carosello {
-  width: 150px;
+  width: 12.5rem;
   padding: 2px;
+  height: 6.5rem;
+  object-fit: contain;
 }
+
 #generi {
   border-radius: 0px;
   border: 2px solid #3d4246;
